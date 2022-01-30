@@ -1,17 +1,21 @@
+session two part one--------------------------------------------------------
+------------------------------------------------------------------------------
 --1
 motivator - general sentence
-
 --2
-restate the topic sometimes ask a indirect question show idea and comment contrast 
-
+restate the topic sometimes ask a indirect question show idea and comment show contrast 
 --3
 thesis statement answer
 
+Introduction-----------------------
+-----------------------------------
 paragraphs start with a tabs. motivator (1 or 2 sentences). restate the questions
 (pose a question = 1 sentence). state first opinion (1 sentences).
 show contrast and state opposite side (1 sentence).
 thesis statement (1 sentence). blueprint (1 sentence).
 
+Sample question-----------------------
+--------------------------------------
 1- do you agree wit the following statement? all high
 school students should take a course in basic economics.
 
