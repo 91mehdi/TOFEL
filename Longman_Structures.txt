@@ -1,0 +1,19 @@
+Skill 1:
+    a Sentence = a Subject + a Verb
+
+Skill 2:
+    a Prepositions (in, at, of, to, by, behind, on, ...) + Objects (nound clause, noun, pronoun, geround, ...)
+
+Skill 3:
+    an Appositives = a noun, a noun [same meaning]
+
+Skill 4:
+    Present Participle => Verb      = Be + -ing [form of the verb]
+                       => Adjective = -ing [form of the verb]
+
+Skill 5:
+    Past Participle => Simple Past = -ed [form of the verb]
+                    => Past Participle = Have/Be -ed [form of the verb]
+                    => Adjective = -ed [form of the verb]
+Skill 6:
+    Clause, Coordinate Connectors (and, but, or, so, yet)
